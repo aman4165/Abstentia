@@ -1,0 +1,20 @@
+{
+  "name": "Abstentia",
+  "version": "1.0.0",
+  "description": "Abstentia",
+  "main": "index.js",
+  "scripts": {
+     
+    "start": "node index.js"
+  },
+
+  "author": "Aman Singhal",
+  "dependencies": {
+    "exceljs": "^1.6.2",
+    "formidable": "^1.2.1",
+    "express": "^4.16.4",
+    "ejs": "^2.6.1"			
+
+
+  }
+}
