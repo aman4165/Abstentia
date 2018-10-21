@@ -3,10 +3,10 @@
 How to run the project
 
 1) Install all the dependencies of the project (refer package.json)
-   command: npm install
+   ###command: npm install
 
 2) Run index.js (Create server to listen on port 3000)
-   command: node index.js
+   ###command: node index.js
 
 3) Open browser (http://localhost:3000/)
 
